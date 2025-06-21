@@ -1,6 +1,6 @@
 <?php
 
-$token = "8041571009:AAGC-lIx-pDlZNdK4mE_6WnfqiAcKGnQi2Y";
+$token = "<token>";
 $apiUrl = "https://api.telegram.org/bot{$token}/";
 
 // Для Long Polling нужно хранить последний обработанный update_id
